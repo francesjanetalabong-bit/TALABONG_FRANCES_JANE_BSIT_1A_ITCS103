@@ -30,26 +30,3 @@ Motto_label.pack(anchor = "w", padx= 20, pady=10)
 
 window.mainloop()
 
-# window = tk.Tk()
-
-# window.title(" Get Well Soon Miss")
-
-# window.geometry("600x600")
-
-# window.resizable(True,True)
-
-# window.configure(bg="light pink",cursor="arrow")
-
-# title_label = tk.Label (window,text="To Do:",font=("Times New Roman", 21, "bold"),fg="black", bg="pink", anchor = "center")
-# title_label.pack(pady=20)
-
-# note_label = tk.Label (window,text="Drink your Meds and take a proper rest Miss,",font=("Times New Roman", 25,),fg="black", bg="pink", anchor = "center")
-# note_label.pack(pady=20)
-
-# note1_label = tk.Label (window,text="so you can attend your afternoon class",font=("Times New Roman", 25,),fg="black", bg="pink", anchor = "center")
-# note1_label.pack(pady=20)
-
-
-# window.mainloop()
-
-
